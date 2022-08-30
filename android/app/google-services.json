@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597272491138",
+    "project_id": "projectnew-5383e",
+    "storage_bucket": "projectnew-5383e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597272491138:android:4c35ec559d6af4cca7f09b",
+        "android_client_info": {
+          "package_name": "com.example.evening"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597272491138-12o1plnmhbroratl2rbciblrl5iabvhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEpLmmwpsaeZkAsYmawJbNyLNhGcUDAmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597272491138-12o1plnmhbroratl2rbciblrl5iabvhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
